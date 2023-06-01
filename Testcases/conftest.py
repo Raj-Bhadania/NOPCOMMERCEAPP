@@ -1,6 +1,5 @@
 import pytest
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 
 ops = webdriver.ChromeOptions()
@@ -17,7 +16,7 @@ def setUp():
 
 ##### Py-test HTML report ########
 
-# it is hook for adding environment info to HTML report
+#below is to add environmental info to HTML report
 def pytest_configure(config):
     config._metadata['Project Name'] = 'Nop Commerce'
     config._metadata['Module Name'] = 'Customers'

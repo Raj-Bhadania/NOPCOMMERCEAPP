@@ -253,7 +253,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 27-May-2023 at 11:31:41 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
+    <p>Report generated on 31-May-2023 at 20:26:31 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -275,7 +275,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Raj Bhadania</td></tr></table>
     <h2>Summary</h2>
-    <p>1 tests ran in 53.04 seconds. </p>
+    <p>1 tests ran in 53.93 seconds. </p>
     <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
@@ -290,21 +290,19 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">Testcases/LoginDataDrivenTest.py::Test_002_DDT_Login::test_login_DDT</td>
-          <td class="col-duration">52.94</td>
+          <td class="col-name">Testcases/Test_addcustomer.py::Test_003_AddCustomer::test_addcustomer</td>
+          <td class="col-duration">53.91</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:LoginDataDrivenTest.py:21 ********** Test_002_DDT_Login **********
-INFO     root:LoginDataDrivenTest.py:22 ********** testing Login DDT **********
-INFO     root:LoginDataDrivenTest.py:42 ********** logged in Successfully **********
-INFO     root:LoginDataDrivenTest.py:52 ********** Expectation is matching with our end result ***********
-ERROR    root:LoginDataDrivenTest.py:47 ********** logged in got failed **********
-INFO     root:LoginDataDrivenTest.py:52 ********** Expectation is matching with our end result ***********
-ERROR    root:LoginDataDrivenTest.py:47 ********** logged in got failed **********
-INFO     root:LoginDataDrivenTest.py:52 ********** Expectation is matching with our end result ***********
-ERROR    root:LoginDataDrivenTest.py:47 ********** logged in got failed **********
-INFO     root:LoginDataDrivenTest.py:52 ********** Expectation is matching with our end result ***********
-INFO     root:LoginDataDrivenTest.py:61 ************** Login DDT Test got passed ******************
-INFO     root:LoginDataDrivenTest.py:64 **************END of Login DDT Test ******************
-INFO     root:LoginDataDrivenTest.py:65 ************** Completed Test_002_DDT_Login ******************<br/></div></td></tr></tbody></table></body></html>
+            <div class="log"> ------------------------------Captured stdout call------------------------------ <br/>×
+The new customer has been added successfully.
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:Test_addcustomer.py:21 ******** Test_003_AddCustomer ********
+INFO     root:Test_addcustomer.py:31 *********** Login Successful ***********
+INFO     root:Test_addcustomer.py:32 ********* Starting Add Customer Test ***********
+INFO     root:Test_addcustomer.py:39 ************ Providing Customer Info *************
+INFO     root:Test_addcustomer.py:53 ******* Saving Customer Details *********
+INFO     root:Test_addcustomer.py:55 ***** Capturing Customer has been added successfully message *****
+INFO     root:Test_addcustomer.py:60 ***** Comparing Message with expected Message *****
+INFO     root:Test_addcustomer.py:62 ***** Add Customer Test Has Been Tested *****
+INFO     root:Test_addcustomer.py:69 ******* Ending Home Page Title Test ********<br/></div></td></tr></tbody></table></body></html>

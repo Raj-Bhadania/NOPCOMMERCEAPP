@@ -1,36 +1,132 @@
-05/27/23 11:11:30 AM:INFO:root:********** Test_002_DDT_Login **********
-05/27/23 11:11:30 AM:INFO:root:********** testing Login DDT **********
-05/27/23 11:11:51 AM:INFO:root:********** logged in Successfully **********
-05/27/23 11:11:53 AM:INFO:root:********** Expectation is matching with our end result ***********
-05/27/23 11:12:01 AM:ERROR:root:********** logged in got failed **********
-05/27/23 11:12:01 AM:INFO:root:********** Expectation is matching with our end result ***********
-05/27/23 11:12:07 AM:ERROR:root:********** logged in got failed **********
-05/27/23 11:12:07 AM:INFO:root:********** Expectation is matching with our end result ***********
-05/27/23 11:12:14 AM:ERROR:root:********** logged in got failed **********
-05/27/23 11:12:14 AM:INFO:root:********** Expectation is matching with our end result ***********
-05/27/23 11:21:56 AM:INFO:root:********** Test_002_DDT_Login **********
-05/27/23 11:21:56 AM:INFO:root:********** testing Login DDT **********
-05/27/23 11:22:18 AM:INFO:root:********** logged in Successfully **********
-05/27/23 11:22:20 AM:INFO:root:********** Expectation is matching with our end result ***********
-05/27/23 11:22:28 AM:ERROR:root:********** logged in got failed **********
-05/27/23 11:22:28 AM:INFO:root:********** Expectation is matching with our end result ***********
-05/27/23 11:22:35 AM:ERROR:root:********** logged in got failed **********
-05/27/23 11:22:35 AM:INFO:root:********** Expectation is matching with our end result ***********
-05/27/23 11:22:43 AM:ERROR:root:********** logged in got failed **********
-05/27/23 11:22:43 AM:INFO:root:********** Expectation is matching with our end result ***********
-05/27/23 11:22:43 AM:INFO:root:************** Login DDT Test got passed ******************
-05/27/23 11:22:43 AM:INFO:root:**************END of Login DDT Test ******************
-05/27/23 11:22:43 AM:INFO:root:************** Completed Test_002_DDT_Login ******************
-05/27/23 11:30:56 AM:INFO:root:********** Test_002_DDT_Login **********
-05/27/23 11:30:56 AM:INFO:root:********** testing Login DDT **********
-05/27/23 11:31:16 AM:INFO:root:********** logged in Successfully **********
-05/27/23 11:31:19 AM:INFO:root:********** Expectation is matching with our end result ***********
-05/27/23 11:31:25 AM:ERROR:root:********** logged in got failed **********
-05/27/23 11:31:25 AM:INFO:root:********** Expectation is matching with our end result ***********
-05/27/23 11:31:33 AM:ERROR:root:********** logged in got failed **********
-05/27/23 11:31:33 AM:INFO:root:********** Expectation is matching with our end result ***********
-05/27/23 11:31:41 AM:ERROR:root:********** logged in got failed **********
-05/27/23 11:31:41 AM:INFO:root:********** Expectation is matching with our end result ***********
-05/27/23 11:31:41 AM:INFO:root:************** Login DDT Test got passed ******************
-05/27/23 11:31:41 AM:INFO:root:**************END of Login DDT Test ******************
-05/27/23 11:31:41 AM:INFO:root:************** Completed Test_002_DDT_Login ******************
+05/30/23 09:18:05 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 09:18:23 PM:INFO:root:*********** Login Successful ***********
+05/30/23 09:18:23 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 09:23:14 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 09:23:30 PM:INFO:root:*********** Login Successful ***********
+05/30/23 09:23:30 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 09:26:34 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 09:26:52 PM:INFO:root:*********** Login Successful ***********
+05/30/23 09:26:52 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 09:48:58 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 09:49:16 PM:INFO:root:*********** Login Successful ***********
+05/30/23 09:49:16 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 09:49:31 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 09:58:19 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 09:58:36 PM:INFO:root:*********** Login Successful ***********
+05/30/23 09:58:36 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 09:58:50 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 10:01:22 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 10:01:39 PM:INFO:root:*********** Login Successful ***********
+05/30/23 10:01:39 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 10:01:54 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 10:04:22 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 10:04:39 PM:INFO:root:*********** Login Successful ***********
+05/30/23 10:04:39 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 10:04:54 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 10:06:35 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 10:06:53 PM:INFO:root:*********** Login Successful ***********
+05/30/23 10:06:53 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 10:07:07 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 10:09:22 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 10:09:39 PM:INFO:root:*********** Login Successful ***********
+05/30/23 10:09:39 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 10:09:53 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 10:13:39 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 10:13:58 PM:INFO:root:*********** Login Successful ***********
+05/30/23 10:13:58 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 10:14:13 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 10:17:45 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 10:18:04 PM:INFO:root:*********** Login Successful ***********
+05/30/23 10:18:04 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 10:18:19 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 10:22:02 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 10:22:20 PM:INFO:root:*********** Login Successful ***********
+05/30/23 10:22:20 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 10:22:34 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 10:24:32 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 10:24:51 PM:INFO:root:*********** Login Successful ***********
+05/30/23 10:24:51 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 10:25:06 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 10:31:31 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 10:31:51 PM:INFO:root:*********** Login Successful ***********
+05/30/23 10:31:51 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 10:32:06 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 10:33:04 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 10:33:22 PM:INFO:root:*********** Login Successful ***********
+05/30/23 10:33:22 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 10:33:39 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 10:33:54 PM:INFO:root:******* Saving Customer Details *********
+05/30/23 10:33:54 PM:INFO:root:***** Capturing Customer has been added successfully message *****
+05/30/23 10:33:55 PM:INFO:root:***** Comparing Message with expected Message *****
+05/30/23 10:33:55 PM:ERROR:root:******* Add Customer Test Failed ********
+05/30/23 10:33:55 PM:INFO:root:******* Ending Home Page Title Test ********
+05/30/23 10:38:21 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 10:38:38 PM:INFO:root:*********** Login Successful ***********
+05/30/23 10:38:38 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 10:38:56 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 10:39:18 PM:INFO:root:******* Saving Customer Details *********
+05/30/23 10:39:18 PM:INFO:root:***** Capturing Customer has been added successfully message *****
+05/30/23 10:44:36 PM:INFO:root:******** Test_003_AddCustomer ********
+05/30/23 10:44:54 PM:INFO:root:*********** Login Successful ***********
+05/30/23 10:44:54 PM:INFO:root:********* Starting Add Customer Test ***********
+05/30/23 10:45:08 PM:INFO:root:************ Providing Customer Info *************
+05/30/23 10:45:23 PM:INFO:root:******* Saving Customer Details *********
+05/30/23 10:45:23 PM:INFO:root:***** Capturing Customer has been added successfully message *****
+05/31/23 07:24:33 PM:INFO:root:******** Test_003_AddCustomer ********
+05/31/23 07:24:51 PM:INFO:root:*********** Login Successful ***********
+05/31/23 07:24:51 PM:INFO:root:********* Starting Add Customer Test ***********
+05/31/23 07:25:09 PM:INFO:root:************ Providing Customer Info *************
+05/31/23 07:25:22 PM:INFO:root:******* Saving Customer Details *********
+05/31/23 07:25:22 PM:INFO:root:***** Capturing Customer has been added successfully message *****
+05/31/23 07:29:41 PM:INFO:root:******** Test_003_AddCustomer ********
+05/31/23 07:29:57 PM:INFO:root:*********** Login Successful ***********
+05/31/23 07:29:57 PM:INFO:root:********* Starting Add Customer Test ***********
+05/31/23 07:30:09 PM:INFO:root:************ Providing Customer Info *************
+05/31/23 07:30:22 PM:INFO:root:******* Saving Customer Details *********
+05/31/23 07:30:22 PM:INFO:root:***** Capturing Customer has been added successfully message *****
+05/31/23 07:31:58 PM:INFO:root:******** Test_003_AddCustomer ********
+05/31/23 07:32:14 PM:INFO:root:*********** Login Successful ***********
+05/31/23 07:32:14 PM:INFO:root:********* Starting Add Customer Test ***********
+05/31/23 07:32:27 PM:INFO:root:************ Providing Customer Info *************
+05/31/23 07:32:42 PM:INFO:root:******* Saving Customer Details *********
+05/31/23 07:32:42 PM:INFO:root:***** Capturing Customer has been added successfully message *****
+05/31/23 07:32:42 PM:INFO:root:***** Comparing Message with expected Message *****
+05/31/23 07:32:42 PM:INFO:root:***** Add Customer Test Has Been Tested *****
+05/31/23 07:32:42 PM:INFO:root:******* Ending Home Page Title Test ********
+05/31/23 07:39:52 PM:INFO:root:******** Test_003_AddCustomer ********
+05/31/23 07:40:09 PM:INFO:root:*********** Login Successful ***********
+05/31/23 07:40:09 PM:INFO:root:********* Starting Add Customer Test ***********
+05/31/23 07:40:23 PM:INFO:root:************ Providing Customer Info *************
+05/31/23 08:03:17 PM:INFO:root:******** Test_003_AddCustomer ********
+05/31/23 08:03:33 PM:INFO:root:*********** Login Successful ***********
+05/31/23 08:03:33 PM:INFO:root:********* Starting Add Customer Test ***********
+05/31/23 08:03:46 PM:INFO:root:************ Providing Customer Info *************
+05/31/23 08:07:48 PM:INFO:root:******** Test_003_AddCustomer ********
+05/31/23 08:08:03 PM:INFO:root:*********** Login Successful ***********
+05/31/23 08:08:03 PM:INFO:root:********* Starting Add Customer Test ***********
+05/31/23 08:08:15 PM:INFO:root:************ Providing Customer Info *************
+05/31/23 08:10:04 PM:INFO:root:******** Test_003_AddCustomer ********
+05/31/23 08:10:19 PM:INFO:root:*********** Login Successful ***********
+05/31/23 08:10:19 PM:INFO:root:********* Starting Add Customer Test ***********
+05/31/23 08:10:31 PM:INFO:root:************ Providing Customer Info *************
+05/31/23 08:13:26 PM:INFO:root:******** Test_003_AddCustomer ********
+05/31/23 08:13:42 PM:INFO:root:*********** Login Successful ***********
+05/31/23 08:13:42 PM:INFO:root:********* Starting Add Customer Test ***********
+05/31/23 08:13:54 PM:INFO:root:************ Providing Customer Info *************
+05/31/23 08:15:29 PM:INFO:root:******** Test_003_AddCustomer ********
+05/31/23 08:15:44 PM:INFO:root:*********** Login Successful ***********
+05/31/23 08:15:44 PM:INFO:root:********* Starting Add Customer Test ***********
+05/31/23 08:15:58 PM:INFO:root:************ Providing Customer Info *************
+05/31/23 08:19:50 PM:INFO:root:******** Test_003_AddCustomer ********
+05/31/23 08:20:06 PM:INFO:root:*********** Login Successful ***********
+05/31/23 08:20:06 PM:INFO:root:********* Starting Add Customer Test ***********
+05/31/23 08:20:24 PM:INFO:root:************ Providing Customer Info *************
+05/31/23 08:25:45 PM:INFO:root:******** Test_003_AddCustomer ********
+05/31/23 08:26:01 PM:INFO:root:*********** Login Successful ***********
+05/31/23 08:26:01 PM:INFO:root:********* Starting Add Customer Test ***********
+05/31/23 08:26:20 PM:INFO:root:************ Providing Customer Info *************
+05/31/23 08:26:30 PM:INFO:root:******* Saving Customer Details *********
+05/31/23 08:26:30 PM:INFO:root:***** Capturing Customer has been added successfully message *****
+05/31/23 08:26:31 PM:INFO:root:***** Comparing Message with expected Message *****
+05/31/23 08:26:31 PM:INFO:root:***** Add Customer Test Has Been Tested *****
+05/31/23 08:26:31 PM:INFO:root:******* Ending Home Page Title Test ********

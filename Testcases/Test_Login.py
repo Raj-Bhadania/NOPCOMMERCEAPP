@@ -1,7 +1,4 @@
 import pytest
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
 
 from PageObjects.LoginPage import Login
 from Utilities.readProperties import ReadConfig
@@ -12,7 +9,6 @@ class Test_001_Login:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUseremail()
     password = ReadConfig.getPassword()
-
     logger = LogGen.loggen()
 
 
@@ -50,7 +46,7 @@ class Test_001_Login:
         except AssertionError:
             self.driver.save_screenshot("ScreenShots/"+"test_login.png")
             self.logger.error("********** login test got failed **********")
-            assert False
+            raise
         finally:
             self.driver.close()
 
