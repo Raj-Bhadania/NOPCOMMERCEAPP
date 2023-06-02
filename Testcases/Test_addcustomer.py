@@ -46,7 +46,7 @@ class Test_003_AddCustomer:
         self.addcp.setDateOfBirth('07/30/1989')
         self.addcp.setCompanyName("H3-Marris")
         self.addcp.IsTaxExempt('Yes')
-        self.addcp.setNewsletter("Test store 2")
+        self.addcp.setNewsletter("Your store name")
        #  self.addcp.setCustomerrole("Vendors")  # Not unteractable through selenium
         self.addcp.isActive(True)
         self.addcp.SaveDetailes()

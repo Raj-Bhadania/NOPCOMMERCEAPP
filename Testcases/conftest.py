@@ -17,13 +17,13 @@ def setUp():
 ##### Py-test HTML report ########
 
 #below is to add environmental info to HTML report
-def pytest_configure(config):
-    config._metadata['Project Name'] = 'Nop Commerce'
-    config._metadata['Module Name'] = 'Customers'
-    config._metadata['Tester'] = 'Raj Bhadania'
-
-
-@pytest.hookimpl(optionalhook=True)
-def pytest_metadata(metadata):
-    metadata.pop('JAVA_HOME', None)
-    metadata.pop('Plugins', None)
+# def pytest_configure(config):
+#     config._metadata['Project Name'] = 'Nop Commerce'
+#     config._metadata['Module Name'] = 'Customers'
+#     config._metadata['Tester'] = 'Raj Bhadania'
+#
+#
+# @pytest.hookimpl(optionalhook=True)
+# def pytest_metadata(metadata):
+#     metadata.pop('JAVA_HOME', None)
+#     metadata.pop('Plugins', None)

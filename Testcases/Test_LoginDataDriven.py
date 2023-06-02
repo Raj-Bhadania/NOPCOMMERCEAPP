@@ -13,7 +13,7 @@ from Utilities import ExcelUtils
 
 class Test_002_DDT_Login:
     baseURL = ReadConfig.getApplicationURL()
-    path = './TestData/LoginData.xlsx'
+    path = '/Users/rajbhadania/PycharmProjects/NOPCOMMERCEAPP/TestData/LoginData.xlsx'
     logger = LogGen.loggen()
 
 

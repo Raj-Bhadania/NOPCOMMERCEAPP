@@ -29,7 +29,7 @@ class Test_003_Parametrized_Login:
         self.lp.setUserName(username)
         self.lp.setPassword(password)
         self.lp.clickLogin()
-        time.sleep(5.0)
+        time.sleep(3.0)
         act_title = self.driver.title
         try:
             assert act_title == 'Dashboard / nopCommerce administration'
@@ -37,5 +37,5 @@ class Test_003_Parametrized_Login:
             self.lp.clickLogout()
         except AssertionError:
             self.logger.error("********** logged in got failed **********")
-            assert False
+            raise
         self.driver.close()

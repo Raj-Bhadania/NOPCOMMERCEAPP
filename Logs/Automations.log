@@ -130,3 +130,137 @@
 05/31/23 08:26:31 PM:INFO:root:***** Comparing Message with expected Message *****
 05/31/23 08:26:31 PM:INFO:root:***** Add Customer Test Has Been Tested *****
 05/31/23 08:26:31 PM:INFO:root:******* Ending Home Page Title Test ********
+05/31/23 08:52:37 PM:INFO:root:******** Test_003_AddCustomer ********
+05/31/23 08:52:37 PM:INFO:root:******** Test_003_AddCustomer ********
+05/31/23 08:52:55 PM:INFO:root:*********** Login Successful ***********
+05/31/23 08:52:55 PM:INFO:root:*********** Login Successful ***********
+05/31/23 08:52:55 PM:INFO:root:********* Starting Add Customer Test ***********
+05/31/23 08:52:55 PM:INFO:root:********* Starting Add Customer Test ***********
+05/31/23 08:53:07 PM:INFO:root:************ Providing Customer Info *************
+05/31/23 08:53:07 PM:INFO:root:************ Providing Customer Info *************
+05/31/23 08:53:17 PM:INFO:root:******* Saving Customer Details *********
+05/31/23 08:53:17 PM:INFO:root:******* Saving Customer Details *********
+05/31/23 08:53:17 PM:INFO:root:***** Capturing Customer has been added successfully message *****
+05/31/23 08:53:17 PM:INFO:root:***** Capturing Customer has been added successfully message *****
+05/31/23 08:53:18 PM:INFO:root:***** Comparing Message with expected Message *****
+05/31/23 08:53:18 PM:INFO:root:***** Comparing Message with expected Message *****
+05/31/23 08:53:18 PM:INFO:root:***** Add Customer Test Has Been Tested *****
+05/31/23 08:53:18 PM:INFO:root:***** Add Customer Test Has Been Tested *****
+05/31/23 08:53:18 PM:INFO:root:******* Ending Home Page Title Test ********
+05/31/23 08:53:18 PM:INFO:root:******* Ending Home Page Title Test ********
+05/31/23 08:53:25 PM:INFO:root:********** Test_001_Login **********
+05/31/23 08:53:25 PM:INFO:root:********** Test_001_Login **********
+05/31/23 08:53:25 PM:INFO:root:********** Verifying Home Page Title **********
+05/31/23 08:53:25 PM:INFO:root:********** Verifying Home Page Title **********
+05/31/23 08:53:28 PM:INFO:root:********** Home Page Test is Passed **********
+05/31/23 08:53:28 PM:INFO:root:********** Home Page Test is Passed **********
+05/31/23 08:53:32 PM:INFO:root:********** test_login **********
+05/31/23 08:53:32 PM:INFO:root:********** test_login **********
+05/31/23 08:53:32 PM:INFO:root:********** testing Login **********
+05/31/23 08:53:32 PM:INFO:root:********** testing Login **********
+05/31/23 08:53:48 PM:INFO:root:********** login test got passed **********
+05/31/23 08:53:48 PM:INFO:root:********** login test got passed **********
+06/01/23 08:31:28 PM:INFO:root:********** Test_001_Login **********
+06/01/23 08:31:28 PM:INFO:root:********** Verifying Home Page Title **********
+06/01/23 08:31:33 PM:INFO:root:********** Home Page Test is Passed **********
+06/01/23 08:31:38 PM:INFO:root:********** test_login **********
+06/01/23 08:31:39 PM:INFO:root:********** testing Login **********
+06/01/23 08:31:59 PM:INFO:root:********** login test got passed **********
+06/01/23 08:50:10 PM:INFO:root:********** Test_001_Login **********
+06/01/23 08:50:10 PM:INFO:root:********** Verifying Home Page Title **********
+06/01/23 08:50:13 PM:INFO:root:********** Home Page Test is Passed **********
+06/01/23 08:50:19 PM:INFO:root:********** test_login **********
+06/01/23 08:50:19 PM:INFO:root:********** testing Login **********
+06/01/23 08:50:37 PM:INFO:root:********** login test got passed **********
+06/01/23 08:52:20 PM:INFO:root:********** Test_001_Login **********
+06/01/23 08:52:20 PM:INFO:root:********** Verifying Home Page Title **********
+06/01/23 08:52:20 PM:INFO:root:********** Home Page Test is Passed **********
+06/01/23 08:52:21 PM:INFO:root:********** test_login **********
+06/01/23 08:52:21 PM:INFO:root:********** testing Login **********
+06/01/23 08:52:24 PM:INFO:root:********** login test got passed **********
+06/01/23 08:53:06 PM:INFO:root:********** Test_001_Login **********
+06/01/23 08:53:06 PM:INFO:root:********** Verifying Home Page Title **********
+06/01/23 08:53:07 PM:INFO:root:********** Home Page Test is Passed **********
+06/01/23 08:53:08 PM:INFO:root:********** test_login **********
+06/01/23 08:53:08 PM:INFO:root:********** testing Login **********
+06/01/23 08:53:10 PM:INFO:root:********** login test got passed **********
+06/01/23 08:53:12 PM:INFO:root:******** Test_003_AddCustomer ********
+06/01/23 08:53:15 PM:INFO:root:*********** Login Successful ***********
+06/01/23 08:53:15 PM:INFO:root:********* Starting Add Customer Test ***********
+06/01/23 08:53:16 PM:INFO:root:************ Providing Customer Info *************
+06/01/23 08:53:19 PM:INFO:root:********** Test_003_Parametrized_Login **********
+06/01/23 08:53:19 PM:INFO:root:********** testing Login Parametrized **********
+06/01/23 08:53:26 PM:INFO:root:********** logged in Successfully **********
+06/01/23 08:53:28 PM:INFO:root:********** Test_003_Parametrized_Login **********
+06/01/23 08:53:28 PM:INFO:root:********** testing Login Parametrized **********
+06/01/23 08:53:34 PM:ERROR:root:********** logged in got failed **********
+06/01/23 08:53:34 PM:INFO:root:********** Test_003_Parametrized_Login **********
+06/01/23 08:53:34 PM:INFO:root:********** testing Login Parametrized **********
+06/01/23 08:53:40 PM:ERROR:root:********** logged in got failed **********
+06/01/23 08:53:41 PM:INFO:root:********** Test_003_Parametrized_Login **********
+06/01/23 08:53:41 PM:INFO:root:********** testing Login Parametrized **********
+06/01/23 08:53:48 PM:ERROR:root:********** logged in got failed **********
+06/01/23 09:01:25 PM:INFO:root:********** Test_002_DDT_Login **********
+06/01/23 09:01:25 PM:INFO:root:********** testing Login DDT **********
+06/01/23 09:04:33 PM:INFO:root:********** Test_002_DDT_Login **********
+06/01/23 09:04:33 PM:INFO:root:********** testing Login DDT **********
+06/01/23 09:04:41 PM:INFO:root:********** logged in Successfully **********
+06/01/23 09:04:42 PM:INFO:root:********** Expectation is matching with our end result ***********
+06/01/23 09:04:47 PM:ERROR:root:********** logged in got failed **********
+06/01/23 09:04:47 PM:INFO:root:********** Expectation is matching with our end result ***********
+06/01/23 09:04:52 PM:ERROR:root:********** logged in got failed **********
+06/01/23 09:04:52 PM:INFO:root:********** Expectation is matching with our end result ***********
+06/01/23 09:04:58 PM:ERROR:root:********** logged in got failed **********
+06/01/23 09:04:58 PM:INFO:root:********** Expectation is matching with our end result ***********
+06/01/23 09:04:58 PM:INFO:root:************** Login DDT Test got passed ******************
+06/01/23 09:04:58 PM:INFO:root:**************END of Login DDT Test ******************
+06/01/23 09:04:58 PM:INFO:root:************** Completed Test_002_DDT_Login ******************
+06/01/23 09:08:58 PM:INFO:root:******** Test_003_AddCustomer ********
+06/01/23 09:09:01 PM:INFO:root:*********** Login Successful ***********
+06/01/23 09:09:01 PM:INFO:root:********* Starting Add Customer Test ***********
+06/01/23 09:09:02 PM:INFO:root:************ Providing Customer Info *************
+06/01/23 09:09:04 PM:INFO:root:******* Saving Customer Details *********
+06/01/23 09:09:04 PM:INFO:root:***** Capturing Customer has been added successfully message *****
+06/01/23 09:09:04 PM:INFO:root:***** Comparing Message with expected Message *****
+06/01/23 09:09:04 PM:INFO:root:***** Add Customer Test Has Been Tested *****
+06/01/23 09:09:04 PM:INFO:root:******* Ending Home Page Title Test ********
+06/01/23 09:09:28 PM:INFO:root:********** Test_001_Login **********
+06/01/23 09:09:28 PM:INFO:root:********** Verifying Home Page Title **********
+06/01/23 09:09:29 PM:INFO:root:********** Home Page Test is Passed **********
+06/01/23 09:09:29 PM:INFO:root:********** test_login **********
+06/01/23 09:09:29 PM:INFO:root:********** testing Login **********
+06/01/23 09:09:31 PM:INFO:root:********** login test got passed **********
+06/01/23 09:09:33 PM:INFO:root:******** Test_003_AddCustomer ********
+06/01/23 09:09:36 PM:INFO:root:*********** Login Successful ***********
+06/01/23 09:09:36 PM:INFO:root:********* Starting Add Customer Test ***********
+06/01/23 09:09:37 PM:INFO:root:************ Providing Customer Info *************
+06/01/23 09:09:38 PM:INFO:root:******* Saving Customer Details *********
+06/01/23 09:09:38 PM:INFO:root:***** Capturing Customer has been added successfully message *****
+06/01/23 09:09:38 PM:INFO:root:***** Comparing Message with expected Message *****
+06/01/23 09:09:38 PM:INFO:root:***** Add Customer Test Has Been Tested *****
+06/01/23 09:09:39 PM:INFO:root:******* Ending Home Page Title Test ********
+06/01/23 09:09:40 PM:INFO:root:********** Test_002_DDT_Login **********
+06/01/23 09:09:40 PM:INFO:root:********** testing Login DDT **********
+06/01/23 09:09:50 PM:INFO:root:********** logged in Successfully **********
+06/01/23 09:09:53 PM:INFO:root:********** Expectation is matching with our end result ***********
+06/01/23 09:09:59 PM:ERROR:root:********** logged in got failed **********
+06/01/23 09:09:59 PM:INFO:root:********** Expectation is matching with our end result ***********
+06/01/23 09:10:04 PM:ERROR:root:********** logged in got failed **********
+06/01/23 09:10:04 PM:INFO:root:********** Expectation is matching with our end result ***********
+06/01/23 09:10:10 PM:ERROR:root:********** logged in got failed **********
+06/01/23 09:10:10 PM:INFO:root:********** Expectation is matching with our end result ***********
+06/01/23 09:10:10 PM:INFO:root:************** Login DDT Test got passed ******************
+06/01/23 09:10:10 PM:INFO:root:**************END of Login DDT Test ******************
+06/01/23 09:10:10 PM:INFO:root:************** Completed Test_002_DDT_Login ******************
+06/01/23 09:10:11 PM:INFO:root:********** Test_003_Parametrized_Login **********
+06/01/23 09:10:11 PM:INFO:root:********** testing Login Parametrized **********
+06/01/23 09:10:19 PM:INFO:root:********** logged in Successfully **********
+06/01/23 09:10:20 PM:INFO:root:********** Test_003_Parametrized_Login **********
+06/01/23 09:10:20 PM:INFO:root:********** testing Login Parametrized **********
+06/01/23 09:10:29 PM:ERROR:root:********** logged in got failed **********
+06/01/23 09:10:30 PM:INFO:root:********** Test_003_Parametrized_Login **********
+06/01/23 09:10:30 PM:INFO:root:********** testing Login Parametrized **********
+06/01/23 09:10:39 PM:ERROR:root:********** logged in got failed **********
+06/01/23 09:10:40 PM:INFO:root:********** Test_003_Parametrized_Login **********
+06/01/23 09:10:40 PM:INFO:root:********** testing Login Parametrized **********
+06/01/23 09:10:46 PM:ERROR:root:********** logged in got failed **********
